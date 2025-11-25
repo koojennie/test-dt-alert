@@ -12,10 +12,12 @@
   "dependencies": {
     "axios": "^0.21.1",
     "cloudinary": "^1.41.0",
+    "debug": "^2.6.8",
     "express-fileupload": "^1.1.9",
     "glob": "^7.0.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
-    "marked": "^0.3.5"
+    "marked": "^0.3.5",
+    "minimatch": "^3.0.4"
   }
 }
